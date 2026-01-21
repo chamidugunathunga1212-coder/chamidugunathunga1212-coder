@@ -8,7 +8,7 @@
 - 💡 Passionate about **Machine Learning, Data Engineering & MLOps**
 - 🔭 Building **end-to-end ML systems**, not just models
 - ☁️ Interested in **AWS, scalable pipelines & production ML**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **chamidugunathunga1212@gmail.com**
 
 ---
 
