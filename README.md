@@ -85,7 +85,7 @@
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn link)*
-- 📧 Email: *(add email)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/chamidu-gunathunga-bb6092351/*
+- 📧 Email: *chamidugunathunga1212@gmail.com*
 
 ⭐ **Always learning. Always building.**
