@@ -68,7 +68,7 @@
 - Data Engineering fundamentals
 - Advanced SQL
 - Apache Airflow
-- AWS data services (S3, Glue, Redshift)
+- AWS data services (S3, ECR, EC2)
 
 ---
 
