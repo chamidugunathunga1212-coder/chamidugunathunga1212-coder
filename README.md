@@ -1,134 +1,111 @@
 <h1 align="center">Hi 👋, I'm Chamidu Gunathunga</h1>
-<h3 align="center">Aspiring Data Engineer | Data Analyst | ML Enthusiast</h3>
+<h3 align="center">Aspiring Data Engineer | Data Analyst | IT Undergraduate (SLIIT)</h3>
 
 ---
 
 ## 👨‍🎓 About Me
-- 🎓 Undergraduate at **SLIIT** | IT Degree (Specializing in Data Science)
-- 💡 Passionate about **Data Engineering, Data Analytics & Machine Learning**
-- 🔭 Building **end-to-end data pipelines & analytics systems**
-- 📊 Strong interest in **data-driven decision making & business insights**
-- ☁️ Exploring **AWS, big data tools & scalable architectures**
-- 📫 Reach me at: **chamidugunathunga1212@gmail.com**
+- 🎓 Undergraduate at **SLIIT** (BSc IT – Specializing in Data Science)
+- 💡 Interested in **Data Engineering, Data Analytics & Business Intelligence**
+- 🔭 Currently building **data pipelines, analytics dashboards & ML-based systems**
+- 📊 Strong focus on **solving real-world business problems using data**
+- ☁️ Familiar with **AWS Cloud & scalable data systems**
+- 🎯 Seeking **Data Engineering / Data Analyst Internship opportunities in Sri Lanka**
+- 📫 Email: **chamidugunathunga1212@gmail.com**
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 🚀 Core Skills (Focused for Internships)
 
-### 👨‍💻 Programming & Query Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+### 👨‍💻 Programming & Databases
+- Python (Pandas, NumPy)
+- SQL (Joins, Aggregations, Window Functions)
+- Data Cleaning & Transformation
 
 ---
 
-### 📊 Data Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- Dashboarding & Reporting  
-- Data Visualization & Insights  
+### 📊 Data Analytics & BI
+- Exploratory Data Analysis (EDA)
+- Dashboard Development (Power BI / Excel)
+- Data Visualization & Reporting
+- Business Insights & KPI Analysis
 
 ---
 
 ### ⚙️ Data Engineering
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge)
-
-- ETL / ELT Pipeline Development  
-- Data Ingestion & Processing  
-- Data Warehousing Concepts  
-- Batch Processing with Spark  
+- ETL / ELT Pipeline Development
+- PySpark (Big Data Processing)
+- Data Ingestion & Processing
+- Basic Data Warehousing Concepts
 
 ---
 
-### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-- Model Building & Evaluation  
-- Feature Engineering  
-- End-to-End ML Pipelines  
+### 🤖 Machine Learning (Supporting Skill)
+- Scikit-learn (Regression & Classification)
+- Feature Engineering
+- Model Evaluation
 
 ---
 
-### ⚙️ MLOps & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+### ☁️ Tools & Technologies
+- AWS (EC2, S3 – basics)
+- Docker
+- Git & GitHub
+- FastAPI (for data/ML APIs)
 
 ---
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+## 🧠 Key Projects (Internship Ready)
+
+### 🛒 Retail Sales Forecasting System
+- Built an **end-to-end pipeline** (Data → Model → API)
+- Implemented **MLflow for experiment tracking**
+- Deployed using **Docker + AWS EC2**
+- Demonstrates **real-world ML + data pipeline integration**
+
+🔗 https://github.com/chamidugunathunga1212-coder/Retail-Sales-Forecasting
 
 ---
 
-## 🧠 Featured Projects
+### 📊 Customer Churn Analysis & Prediction
+- Performed **EDA + Feature Engineering**
+- Built classification models & compared performance
+- Generated **business insights for customer retention**
 
-### 🛒 Retail Sales Forecasting (Data + ML Pipeline)
-- End-to-end pipeline (Data ingestion → Transformation → Model → API)
-- Built using **MLflow, FastAPI, Docker & AWS**
-- Focus on **production-ready ML system design**
-
-🔗 Repository: https://github.com/chamidugunathunga1212-coder/Retail-Sales-Forecasting
+🔗 https://github.com/chamidugunathunga1212-coder/customer_churn_prediction_system
 
 ---
 
-### 🏠 House Price Prediction System
-- Regression models with feature engineering
-- API-based prediction system
-- Structured logging & exception handling
+### 🏠 House Price Prediction API
+- Developed regression model + REST API
+- Structured project with logging & error handling
+- Shows **clean coding + backend integration skills**
 
-🔗 Repository: https://github.com/chamidugunathunga1212-coder/House-Price-Prediction
-
----
-
-### 📉 Customer Churn Prediction
-- Classification models & performance comparison
-- Strong focus on **EDA & business insights**
-
-🔗 Repository: https://github.com/chamidugunathunga1212-coder/customer_churn_prediction_system
+🔗 https://github.com/chamidugunathunga1212-coder/House-Price-Prediction
 
 ---
 
-## 📊 Data Engineering & Analytics Focus
-- Building **data pipelines (ETL/ELT)**
-- Working with **large datasets using PySpark**
-- Designing **data workflows & automation**
-- Creating **dashboards for business insights**
+## 📊 What I Can Do for a Company
+- Clean and analyze raw datasets to generate insights  
+- Build simple **ETL pipelines** for data processing  
+- Create dashboards for **business decision-making**  
+- Assist in developing **data-driven applications**  
+- Work with teams using **Git & Agile practices**  
 
 ---
 
-## 📚 Currently Learning
-- Advanced SQL & Query Optimization  
-- Apache Airflow (Workflow Orchestration)  
-- Data Warehousing (Star Schema, Snowflake)  
-- AWS Data Services (S3, Redshift, Glue)  
-- Real-time Data Processing  
+## 📚 Currently Improving
+- Advanced SQL (real-world queries)
+- Apache Airflow (workflow orchestration)
+- Data Warehousing (Star Schema, Snowflake)
+- Power BI Dashboard Projects
+- PySpark for large-scale data processing
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamidugunathunga1212-coder&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamidugunathunga1212-coder&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/chamidu-gunathunga-bb6092351/
 - 📧 Email: chamidugunathunga1212@gmail.com  
 
 ---
 
-⭐ **Turning data into insights. Building scalable data systems.**
+⭐ *Actively looking for internship opportunities – ready to learn and contribute from day one.*
