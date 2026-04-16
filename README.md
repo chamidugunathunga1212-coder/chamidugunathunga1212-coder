@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamidu Gunathunga</h1>
-<h3 align="center">Aspiring Data Engineer | Data Analyst | IT Undergraduate (SLIIT)</h3>
+<h3 align="center">Aspiring Data Engineer | Data Analyst | Information Technology Specialized in Data Science(SLIIT)</h3>
 
 ---
 
